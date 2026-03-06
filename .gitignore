@@ -8,6 +8,7 @@ out/
 
 # logs
 *.log
+.logs
 
 # arquivos do sistema
 .DS_Store
